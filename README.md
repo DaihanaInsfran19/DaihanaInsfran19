@@ -14,7 +14,7 @@
 
 🔭 **Actualmente:** Soy Estudiante
 
-🌱 **Actualmente estoy aprendiendo:** Git, Java y GitHub
+🌱 **Actualmente estoy aprendiendo:** Git,Kotlin y GitHub
 
 
 💬 **Pregúntame sobre:** Sql, Java, C#, JavaScript
