@@ -10,7 +10,7 @@
 <div size='20px'> ¡Hola! Mi nombre es Daihana Insfran. Gracias por tomarte el tiempo de ver mi Perfil de GitHub :smile: 
 </div>
 
-<h2> Acerca de Mí <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FzemY3d2I3NGt6dGI0bmEzZzU2Ym84ZWNkM3YzeHBtdGpzc24yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ClcggySEuhLa/giphy.gif" width = 100px></h2>
+<h2> Acerca de Mí </h2>
 
 🔭 **Actualmente:** Soy Estudiante
 
