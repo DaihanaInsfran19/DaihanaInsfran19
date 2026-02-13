@@ -1,42 +1,58 @@
-<p align="center">
-    
-</p>
+<div align="center">
 
-<h1> ¡Hola Compañeros < Desarrolladores/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+# Daihana Insfran
 
+**Estudiante de Desarrollo de Software**
 
-<div size='20px'> ¡Hola! Mi nombre es Daihana Insfran. Gracias por tomarte el tiempo de ver mi Perfil de GitHub :smile: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daihana_Insfran-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/daihana-insfran)
+[![Gmail](https://img.shields.io/badge/Gmail-dahianainsfran19-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dahianainsfran19@gmail.com)
+
 </div>
 
-<h2> Acerca de Mí </h2>
+---
 
-🔭 **Actualmente:** Soy Estudiante
+### 👩‍💻 Sobre mí
 
-🌱 **Actualmente estoy aprendiendo:** Git,Kotlin y GitHub
+Apasionada por el desarrollo de **aplicaciones** y **bases de datos**.
+Me enfoco en escribir código limpio, aplicar buenas prácticas y seguir aprendiendo cada día.
 
+---
 
-💬 **Pregúntame sobre:** Sql, Java, C#, JavaScript
+### 🛠️ Tecnologías
 
+<div align="center">
 
-<h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2> Conéctate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/daihana-insfran?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'mailto:dahianainsfran19@gmail.com'> <img width = '32px' align= 'center' src="https://img.icons8.com/color/48/000000/gmail.png"/></a> 
+</div>
 
+**Aprendiendo ahora:**
 
-<br>
-<br>
-  <br>
-  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
+---
+
+### 🚀 Enfoque actual
+
+- 📱 Aprendiendo **Kotlin** para desarrollo Android
+- 🌿 Mejorando flujos de trabajo con **Git & GitHub**
+- 💡 Practicando **lógica de programación** y resolución de problemas
+- 🏗️ Construyendo proyectos con **buenas prácticas y POO**
+
+---
+
+<div align="center">
+
+*Perfil en constante aprendizaje* ✨
+
+</div>
+
