@@ -1,58 +1,69 @@
-<div align="center">
+<h1 align="center">✨ Daihana Insfran</h1>
+<h3 align="center">Estudiante de Desarrollo de Software | Apasionada por la Programación</h3>
 
-# Daihana Insfran
-
-**Estudiante de Desarrollo de Software**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daihana_Insfran-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/daihana-insfran)
-[![Gmail](https://img.shields.io/badge/Gmail-dahianainsfran19-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dahianainsfran19@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&width=600&lines=👋+Bienvenido+a+mi+perfil+de+GitHub;💻+Aprendiendo+Desarrollo+Full+Stack;🚀+Construyendo+proyectos+y+mejorando+cada+día" />
+</p>
 
 ---
 
-### 👩‍💻 Sobre mí
+## 👩‍💻 Sobre mí
 
-Apasionada por el desarrollo de **aplicaciones** y **bases de datos**.
-Me enfoco en escribir código limpio, aplicar buenas prácticas y seguir aprendiendo cada día.
+<table>
+<tr>
+<td>
 
----
+🎓 Estudiante de Desarrollo de Software  
+🌱 Actualmente aprendiendo **Git, GitHub y Kotlin**  
+💡 Interesada en **Backend, Bases de Datos y Apps**  
+🚀 Objetivo: participar en proyectos reales y crecer como desarrolladora  
 
-### 🛠️ Tecnologías
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-**Aprendiendo ahora:**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</td>
+<td>
+<img width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Enfoque actual
+## 🛠️ Tecnologías y Herramientas
 
-- 📱 Aprendiendo **Kotlin** para desarrollo Android
-- 🌿 Mejorando flujos de trabajo con **Git & GitHub**
-- 💡 Practicando **lógica de programación** y resolución de problemas
-- 🏗️ Construyendo proyectos con **buenas prácticas y POO**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,python,html,css,git&theme=dark" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 Estadísticas
 
-*Perfil en constante aprendizaje* ✨
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaihanaInsfran19&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaihanaInsfran19&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaihanaInsfran19&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daihana-insfran">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dahianainsfran19@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Gracias por visitar mi perfil ⭐</b><br>
+  Explora mis repositorios y proyectos 👇
+</p>
 
